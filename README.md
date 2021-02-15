@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rig-21
+- 👋 Hi, I’m Adam
 - 👀 I'm interested in Web Development as well as Robotics, Big Data, AI. Basicly everything wich is related to programming :D
 - 🌱 I am currently improving my JavaScript Python
 - 💞️ I’m looking to collaborate on ...
