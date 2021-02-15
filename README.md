@@ -2,7 +2,8 @@
 - 👀 I'm interested in Web Development as well as Robotics, Big Data, AI. Basicly everything wich is related to programming :D
 - 🌱 I am currently improving my JavaScript Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - You can send me emial at szymanskiadam111@gmail.com or write at Discord " _Adam_#4171 "
+- 📫 How to reach me - You can send me emial at szymanskiadam111@gmail.com or write at Discord 
+" _Adam_#4171 "
 
 <!---
 Rig-21/Rig-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
