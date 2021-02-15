@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 👀 I'm interested in Web Development as well as Robotics, Big Data, AI. Basicly everything wich is related to programming :D
+- 👀 I'm interested in Web Development as well as Robotics, Big Data and AI. Basicly everything wich is related to programming :D
 - 🌱 I am currently improving my JavaScript Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You can send me emial at szymanskiadam111@gmail.com or write at Discord 
