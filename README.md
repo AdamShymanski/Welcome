@@ -3,7 +3,7 @@
 - 🌱 I am currently improving my JavaScript Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You can send me emial at szymanskiadam111@gmail.com or write at Discord 
-" _Adam_#4171 "
+" *__Adam__#4171* "
 
 <!---
 Rig-21/Rig-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
